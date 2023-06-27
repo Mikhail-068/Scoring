@@ -8,5 +8,6 @@ https://docs.google.com/spreadsheets/d/13L4SxeEzX1JR2QRb7NDf0Sk342G06eeoFeAwxSWQ
 Задачи
 -----------------------------
 
-![image](https://github.com/Mikhail-068/Scoring/assets/82748554/9f670202-4b5d-4f2f-9653-a465119c0242)
+![image](https://github.com/Mikhail-068/Scoring/assets/82748554/64f5c322-e03c-4f27-8640-977404057f5e)
+
 
